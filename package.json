@@ -1,0 +1,16 @@
+{
+  "name": "request header parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bengu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1",
+    "ip": "^1.1.4",
+    "platform": "^1.3.3"
+  }
+}
